@@ -3,6 +3,10 @@ Very simple BepInEx mod for Bits & Bops that allows opening custom mixtapes on t
 
 Made because I needed to debug [BopCustomTextures](https://github.com/AnonUserGuy/BopCustomTextures) interacting with RiqMenu, but RiqMenu doesn't work on my computer so I needed a workaround.
 
+## Installation
+1. Install [BepInEx 5.x](https://docs.bepinex.dev/articles/user_guide/installation/index.html) in Bits & Bops.
+2. Download `ShellMixtapeOpener.dll` from the latest [release](https://github.com/AnonUserGuy/ShellMixtapeOpener/releases/), and place it in ``<Bits & Bops Installation>/BepinEx/plugins/``.
+
 ## Usage
 1. Navigate to the credits menu. (on the title screen, third option down.)
 2. Press the keyboard combination **ctrl+M**.
