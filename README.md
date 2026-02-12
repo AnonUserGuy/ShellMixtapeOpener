@@ -1,7 +1,7 @@
 # ShellMixtapeOpener
 Very simple BepInEx mod for Bits & Bops that allows opening custom mixtapes on the credits menu in the same manner as opening them on the alpha disclaimer. 
 
-Made because I needed to debug [BopCustomTextures](https://github.com/AnonUserGuy/BopCustomTextures) interacting with RiqMenu, but RiqMenu doesn't work on my computer so I needed a workaround.
+Made because I needed to debug [BopCustomTextures](https://github.com/AnonUserGuy/BopCustomTextures) interacting with RiqMenu, but RiqMenu doesn't work with my workflow so I needed a workaround.
 
 ## Installation
 1. Install [BepInEx 5.x](https://docs.bepinex.dev/articles/user_guide/installation/index.html) in Bits & Bops.
